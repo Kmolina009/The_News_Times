@@ -13,5 +13,5 @@ Using only HTML and CSS to arrangement of different div items through the use of
  - [x] Create HTML Boilerplate
  - [x] Add Semantic HTML
  - [x] Add lorem ipsums
- - [ ] Add styling and position
+ - [x] Add styling and position
 
