@@ -10,8 +10,8 @@ Using only HTML and CSS to arrangement of different div items through the use of
 
 ## Task List
 ---
- - [ ] Create HTML Boilerplate
- - [ ] Add Semantic HTML
- - [ ] Add lorem ipsums
+ - [x] Create HTML Boilerplate
+ - [x] Add Semantic HTML
+ - [x] Add lorem ipsums
  - [ ] Add styling and position
 
