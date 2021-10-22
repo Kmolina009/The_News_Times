@@ -1,6 +1,6 @@
 # The News Times
 ## An Intro to Web Dev v2 Project
-### provided by Brain Holt!
+### Provided by Brain Holt!
 ----
 Using only HTML and CSS to arrangement of different div items through the use of flexbox plus a corgi. Nothing more, nothing less.
 
